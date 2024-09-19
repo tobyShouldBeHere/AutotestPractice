@@ -1,0 +1,10 @@
+Spring:
+  datasource:
+    #驱动类名称
+    driver-class-name=com.mysql.cj.jdbc.Driver
+      #数据库连接的url
+    url=jdbc:mysql://localhost:3306/demo
+      #连接数据库的用户名
+    username=root
+      #连接数据库的密码
+    password=root
